@@ -15,6 +15,7 @@ Educational Background
 Bachelor's degree in Automation
 * Relevant Course:Principles of Automatic Control, Linear Algebra, Modern control theory
 * B.S. in Zhejiang, GitHub University, 2012
+  
 2025.9 - future  ShanghaiTech University, China
 Graduate Student in Computer Science
 * Mobile Autonomous Robotic Systems Lab, Supervised by Sören Schwertfeger.
