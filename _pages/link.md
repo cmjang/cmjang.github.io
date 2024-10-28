@@ -10,3 +10,5 @@ author_profile: true
 * [Meteor’s Blog](https://www.ghl.info/)
 * [deemoe](https://dee.moe)
 * [lastkp](https://lastkp.com/)
+* [boooom](boooom.cn)
+* [symc](https://symcreg.github.io/)
