@@ -11,12 +11,11 @@ redirect_from:
 
 Educational Background
 ======
-2021.9 – 2025.6 Zhejiang University of Technology Hangzhou, China
+##2021.9 – 2025.6 Zhejiang University of Technology Hangzhou, China
 Bachelor's degree in Automation
 * Relevant Course:Principles of Automatic Control, Linear Algebra, Modern control theory
-* B.S. in Zhejiang, GitHub University, 2012
-  
-2025.9 - future  ShanghaiTech University, China
+
+##2025.9 - future  ShanghaiTech University, China
 Graduate Student in Computer Science
 * Mobile Autonomous Robotic Systems Lab, Supervised by Sören Schwertfeger.
 
@@ -38,8 +37,8 @@ Skills
 
 Leadership Experience
 ======
-# Zhejiang University of Technology Intelligent Car Club(2023.9 - 2024.6)
+## Zhejiang University of Technology Intelligent Car Club(2023.9 - 2024.6)
 Core member of technical department and technical leader of association
 **Conduct intelligent car team training and related team organization arrangements.**
-# Department of Technology of the Information College(2022.9 - 2023.6)
+## Department of Technology of the Information College(2022.9 - 2023.6)
 * Conduct intelligent car team training and related team organization arrangements.
