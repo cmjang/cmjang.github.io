@@ -9,11 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educational Background
 ======
-* M.S. in Jekyll, GitHub University, 2014
+2021.9 – 2025.6 Zhejiang University of Technology Hangzhou, China
+Bachelor's degree in Automation
+* Relevant Course:Principles of Automatic Control, Linear Algebra, Modern control theory
 * B.S. in Zhejiang, GitHub University, 2012
+2025.9 - future  ShanghaiTech University, China
+Graduate Student in Computer Science
+* Mobile Autonomous Robotic Systems Lab, Supervised by Sören Schwertfeger.
 
+  
 Work experience
 ======
 
