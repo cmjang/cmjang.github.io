@@ -31,8 +31,8 @@ Skills
 
 Leadership Experience
 ======
-#### Zhejiang University of Technology Intelligent Car Club(2023.9 - 2024.6)
+# Zhejiang University of Technology Intelligent Car Club(2023.9 - 2024.6)
 Core member of technical department and technical leader of association
 **Conduct intelligent car team training and related team organization arrangements.**
-#### Department of Technology of the Information College(2022.9 - 2023.6)
+# Department of Technology of the Information College(2022.9 - 2023.6)
 * Conduct intelligent car team training and related team organization arrangements.
