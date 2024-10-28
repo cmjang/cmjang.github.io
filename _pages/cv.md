@@ -11,11 +11,11 @@ redirect_from:
 
 Educational Background
 ======
-##2021.9 – 2025.6 Zhejiang University of Technology Hangzhou, China
+## 2021.9 – 2025.6 Zhejiang University of Technology Hangzhou, China
 Bachelor's degree in Automation
 * Relevant Course:Principles of Automatic Control, Linear Algebra, Modern control theory
 
-##2025.9 - future  ShanghaiTech University, China
+## 2025.9 - future  ShanghaiTech University, China
 Graduate Student in Computer Science
 * Mobile Autonomous Robotic Systems Lab, Supervised by Sören Schwertfeger.
 
