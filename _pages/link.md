@@ -9,3 +9,4 @@ author_profile: true
 * [Yunhao Cao](https://www.quantumcookie.xyz/)
 * [Meteor’s Blog](https://www.ghl.info/)
 * [deemoe](https://dee.moe)
+* [lastkp](https://lastkp.com/)
