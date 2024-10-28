@@ -20,12 +20,11 @@ Work experience
   
 Skills
 ======
-* Programming Languages: Python,C,C++,MATLAB,JAVA,PHP,JavaScript
-* Operating System:Ubuntu,Windows
-* Hardware : PCB Designed,altimeter
+* Programming Languages: Python, C, C++, MATLAB, JAVA, PHP, JavaScript
+* Operating System: Ubuntu,Windows
 * Mechanical Design: Fusion360
 * Circuit Design: Altium Designer, EasyEDA
-* Embedded Systems: ARM(STM32F1xx, 4xx, 7xx), infineon AURIX™ Family(TC2xx, TC3xx),Arduino(ESP32, Teensyduino),STC(89C51)
+* Embedded Systems: ARM(STM32F1xx, 4xx, 7xx), infineon AURIX™ Family(TC2xx, TC3xx), Arduino(ESP32, Teensyduino), STC(89C51)
 * Others: LATEX, Markdown, Git, Make, CMake
 * Modeling Skills: Robotics, Embedded Systems, Reinforcement Learning and Neural Networks
 
