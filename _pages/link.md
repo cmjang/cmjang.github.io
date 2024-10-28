@@ -5,5 +5,6 @@ author_profile: true
 ---
 ## Friends
 **Here are links to my friends’ websites and blogs!**
-[Yunhao Cao](https://www.quantumcookie.xyz/)
-[Meteor’s Blog](https://www.ghl.info/)
+
+* [Yunhao Cao](https://www.quantumcookie.xyz/)
+* [Meteor’s Blog](https://www.ghl.info/)
