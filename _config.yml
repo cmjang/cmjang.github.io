@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yankai Xiang"
-  pronouns         : "he/his"# example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Graduate Students at Mobile Autonomous Robotic Systems Lab (MARS Lab),ShanghaiTech University"
   location         : "Mainland China"
   employer         : 
