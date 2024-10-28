@@ -19,11 +19,6 @@ Bachelor's degree in Automation
 Graduate Student in Computer Science
 * Mobile Autonomous Robotic Systems Lab, Supervised by Sören Schwertfeger.
 
-  
-Work experience
-======
-
-  
 Skills
 ======
 * **Programming Languages**: Python, C, C++, MATLAB, JAVA, PHP, JavaScript
